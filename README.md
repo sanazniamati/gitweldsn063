@@ -6,5 +6,5 @@ React Konva is a JavaScript library for drawing complex canvas graphics using [R
 
 ![Demo](./img.png)
 
-**use of Rough.js **
+**draw on canvas **
 * github : https://github.com/redhwannacef/youtube-tutorials/tree/main/excalidraw-tutorial*
